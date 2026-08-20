@@ -5,7 +5,7 @@ import heroImg from './assets/hero.png'
 
 import './App.css'
 
-const PHONE = '527711790029'
+const PHONE = '528138880730'
 
 const WHATSAPP_MESSAGE =
   'Hola ARJEN, me interesa cotizar una página web para mi negocio.'
@@ -121,7 +121,7 @@ function App() {
 
             <h1>
               Diseño de páginas web en{' '}
-              <span>Huasca de Ocampo, Hidalgo.</span>
+              <span>Hidalgo.</span>
             </h1>
 
             <p>
